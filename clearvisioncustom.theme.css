@@ -1562,6 +1562,7 @@ body,button,input,select,textarea,::placeholder
 
 .theme-dark .container-YkUktl:before,.theme-dark .container-YkUktl:after
 {
+  display: none;
   bottom: -8px;
   position: absolute;
   color: rgba(255,255,255,.3);
